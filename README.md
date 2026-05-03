@@ -21,13 +21,16 @@ The target variable is `Survived`:
 - Jupyter Notebook
 
 ## Project Workflow
+
 1. Data Loading
 2. Data Inspection
-3. Data Preprocessing and Feature Engineering
-4. Exploratory Data Analysis
-5. Model Training and Evaluation
-6. Model Comparison
-7. Final Model Selection
+3. Data Preprocessing
+4. Feature Engineering
+5. Exploratory Data Analysis
+6. Train-Test Split and Scaling
+7. Model Training and Evaluation
+8. Model Comparison
+9. Final Model Selection
 
 ## Feature Engineering
 The following features were created to improve model performance:
